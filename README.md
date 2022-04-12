@@ -6,5 +6,5 @@ This repository contains projects and visualizations created from the Data Scien
 ## Statistics
 ## Visual Communications
 ## R
-## Python?
+## Python
 ## SAS
